@@ -1,4 +1,4 @@
-jaidedai/easyocr:latest
+challisa/easyocr:latest
 #public.ecr.aws/q9t5s3a7/vllm-cpu-release-repo:v0.10.2
 #moonshotai/kimi-audio:v0.1
 #unclecode/crawl4ai:basic
